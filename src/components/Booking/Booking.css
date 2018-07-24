@@ -1,0 +1,11 @@
+.calendar__nav {
+  text-align: center; }
+
+.calendar__day--selected {
+  background: red; }
+
+.calendar__day--forbidden {
+  background: gray; }
+
+.calendar__day--dot {
+  background: yellow; }
